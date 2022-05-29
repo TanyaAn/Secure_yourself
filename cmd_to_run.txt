@@ -1,0 +1,4 @@
+python -m venv OST
+OST\Scripts\activate.bat
+python manage.py runserver
+
